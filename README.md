@@ -1,2 +1,2 @@
-# Traffic_management_system
-develop a Traffic_management_system using C &amp; GTK+
+# Traffic Information System
+develop a Traffic Information System using C &amp; GTK+
