@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
-add_executable(book_system
+add_executable(traffic_information_system
         main.c
         source/enter_window.c
         source/common.c
